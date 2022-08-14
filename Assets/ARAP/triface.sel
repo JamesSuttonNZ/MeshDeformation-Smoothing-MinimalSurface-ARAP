@@ -1,0 +1,5 @@
+# per vertex status: 0=fixed, 1=deformable-region, 2=handle
+# 6 vertices
+0
+1
+2
